@@ -22,7 +22,7 @@ Selected Publications
 ------
 (For the complete list of publications, please refer to [My Google Scholar Page](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN)) * corresponding author
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-**<font color=red>Xingtuo Zhang</font>***, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
+<strong><font color="red">Xingtuo Zhang</font></strong>*, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
 *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
 - **<font color=red>Xingtuo Zhang</font>***, Yiyi Zhang*, Alu Xu, Chunli Meng, Zhonghuan Su, “Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1–11, 2023.
