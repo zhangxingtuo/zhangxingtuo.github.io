@@ -20,18 +20,29 @@ Research Interests（研究方向）
 
 Selected Publications
 ------
-(For the complete list of publications, please refer to [My Google Scholar Page](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN)) * corresponding author
+(For the complete list of publications, please refer to [My Google Scholar Page](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN)) | * corresponding author
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-<strong><font color="red">Xingtuo Zhang</font></strong>*, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
-*IEEE Sensors Journal*, 2025 <br>
+  <strong><font color="red">Xingtuo Zhang*</font></strong>, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
+  *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
-- **<font color=red>Xingtuo Zhang</font>***, Yiyi Zhang*, Alu Xu, Chunli Meng, Zhonghuan Su, “Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1–11, 2023.
-- Yiyi Zhang, Xinyang Mao, **<font color=red>Xingtuo Zhang</font>***, Chuqi Xu, Gang Wang, Sheng Li, “Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation,” IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–11, 2022.
-- **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, Xueyue Xue, Heng Zhang, Wei Zhang, “InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks,” IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1–12, 2021.
+- Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network <br>
+  **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang*, Alu Xu, Chunli Meng, Zhonghuan Su <br>
+  *IEEE Transactions on Instrumentation and Measurement*, 2023 <br>
+  [[Paper]](https://ieeexplore.ieee.org/document/9975282)
+
+- Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation <br>
+  Yiyi Zhang, Xinyang Mao, <strong><font color="red">Xingtuo Zhang*</font></strong>, Chuqi Xu, Gang Wang, Sheng Li <br>
+  *IEEE Transactions on Instrumentation and Measurement*, 2022 <br>
+  [[Paper]](https://ieeexplore.ieee.org/document/9849515)
+
+- InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks  <br>
+ <strong><font color="red">Xingtuo Zhang*</font></strong>, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, Xueyue Xue, Heng Zhang, Wei Zhang <br>
+  *IEEE Transactions on Instrumentation and Measurement*, 2021  <br>
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/9585511)
 
 
 
 Academic Service
 ------
-- Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
-- Journal Reviewer: IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
+  - Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
+  - Journal Reviewer: IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
