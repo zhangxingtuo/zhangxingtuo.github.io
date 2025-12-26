@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me（关于我）"
+title: "About Me（关于我）"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,18 +14,20 @@ I am currently a faculty member at the School of Electrical Engineering, Chongqi
 Research Interests（研究方向）
 ------
 - image processing, detection and recognition; visual defect detection for power equipment
-- 电力设备视觉缺陷检测；电力图像处理、检测与识别
+- 图像处理、检测与识别；电力设备视觉缺陷检测
 - non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting
 - 智能电网的非侵入式智能感知与数据分析；能源预测
 
 Selected Publications
 ------
-- **Xingtuo Zhang**, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, Xueyue Xue, Heng Zhang, Wei Zhang, “InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks,” IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1–12, 2021.
-- **Xingtuo Zhang***, Yiyi Zhang*, Alu Xu, Chunli Meng, Zhonghuan Su, “Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1–11, 2023.
-- **Xingtuo Zhang***, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen, “FAFNet: An overhead transmission line component detection method based on feature alignment and fusion,” IEEE Sensors Journal, vol. 25, no. 15, pp. 30197–30206, 2025.
-- Yiyi Zhang, Xinyang Mao, **Xingtuo Zhang***, Chuqi Xu, Gang Wang, Sheng Li, “Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation,” IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–11, 2022.
+- **<font color=red>Xingtuo Zhang</font>***, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen, “FAFNet: An overhead transmission line component detection method based on feature alignment and fusion,” IEEE Sensors Journal, vol. 25, no. 15, pp. 30197–30206, 2025.
+- **<font color=red>Xingtuo Zhang</font>***, Yiyi Zhang*, Alu Xu, Chunli Meng, Zhonghuan Su, “Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1–11, 2023.
+- Yiyi Zhang, Xinyang Mao, **<font color=red>Xingtuo Zhang</font>***, Chuqi Xu, Gang Wang, Sheng Li, “Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation,” IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–11, 2022.
+- **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, Xueyue Xue, Heng Zhang, Wei Zhang, “InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks,” IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1–12, 2021.
 
 
-For more info
+
+Academic Service
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
+- Journal Reviewer: IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
