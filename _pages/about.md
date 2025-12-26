@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我目前是重庆文理学院电气工程学院的教师。长期聚焦图像处理、检测与识别技术及其在电力行业的应用研究，近年来主持省部级科研项目2项，在IEEE Trans.系列汇刊等学术期刊发表论文10余篇，以第一作者发表的研究性论文单篇最高他引120余次，所提出的方法被多个课题组列为学术对比基准，获得了广泛正面引用与评价。兼任多个权威SCI期刊同行评审专家。
 
 A data-driven personal website
 ======
