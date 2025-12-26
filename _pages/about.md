@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me（关于我）"
+title: "Xingtuo Zhang"
 author_profile: true
 redirect_from: 
   - /about/
