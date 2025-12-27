@@ -7,15 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a faculty member at the School of Electrical Engineering, Chongqing University of Arts and Sciences. My long-term research focuses on image processing, detection and recognition technologies and their applications in the power industry. In recent years, I have presided over 2 provincial and ministerial-level scientific research projects, published more than 10 academic papers in prestigious journals such as the IEEE Transactions series, and a single research paper published as the first author has received over 120 independent citations. The methods I proposed have been adopted as academic comparison benchmarks by multiple research groups, garnering extensive positive citations and recognition. I also serve as a peer reviewer for several authoritative SCI-indexed journals.
+I am currently a faculty member at the School of Electrical Engineering, Chongqing University of Arts and Sciences.  
 
-我目前是重庆文理学院电气工程学院的教师。长期聚焦图像处理、检测与识别技术及其在电力行业的应用研究，近年来主持省部级科研项目2项，在IEEE Trans.系列汇刊等学术期刊发表论文10余篇，以第一作者发表的研究性论文单篇最高他引120余次，所提出的方法被多个课题组列为学术对比基准，获得了广泛正面引用与评价。兼任多个权威SCI期刊的同行评审专家。
+My long-term research focuses on multimodal image processing, perception and analysis, as well as their applications in industrial visual inspection.
+I have published more than 10 papers in academic journals such as the IEEE Transactions series.
+A single research paper published as the first author has received over 120 non-self citations, and our method has been adopted as an academic comparison benchmark by multiple research groups, garnering extensive positive citations and evaluations.
+I also serve as a peer reviewer for several authoritative SCI journals.
+
+我目前是重庆文理学院电气工程学院的教师。  
+
+长期聚焦多模态图像处理、感知与分析及其在工业视觉检测中的应用研究，先后主持重庆市自然科学基金面上项目、重庆市教委科研项目青年项目等省部级科研项目2项，在IEEE Trans.系列汇刊等学术期刊发表论文10余篇，以第一作者发表的研究性论文单篇最高他引120余次，所提出的方法被多个课题组列为学术对比基准，获得了广泛正面引用与评价。兼任多个权威SCI期刊的同行评审专家。
 
 Research Interests（研究方向）
 ------
-- image processing, detection and recognition; visual defect detection for power equipment<br>
-  图像处理、检测与识别；电力设备视觉缺陷检测
-- non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting<br>
+- Multimodal image processing, perception and analysis; industrial visual inspection <br>
+  多模态图像处理、感知与分析；工业视觉检测
+- non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting <br>
   智能电网的非侵入式智能感知与数据分析；能源预测
 
 Selected Publications
