@@ -2,8 +2,8 @@
 title: "High voltage technology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-date: 2026-1-1
+permalink: /teaching/2026-spring-teaching-1
+date: 2026~
 ---
 
 This course focuses on the fundamental theories and engineering applications in the field of high voltage, systematically covering the insulation characteristics of gaseous, liquid, and solid dielectrics, the generation and measurement methods of high voltage, as well as core content such as overvoltage protection of power systems and insulation design of electrical equipment.  
