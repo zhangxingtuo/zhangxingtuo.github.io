@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingtuo Zhang"
+title: "Xingtuo Zhang （张兴妥）"
 author_profile: true
 redirect_from: 
   - /about/
