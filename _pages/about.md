@@ -20,16 +20,17 @@ I also serve as a peer reviewer for several authoritative SCI journals.
 
 Research Interests（研究方向）
 ------
-- Multimodal image processing, perception and analysis; industrial visual inspection <br>
+- multimodal image processing, perception and analysis; industrial visual inspection <br>
   多模态图像处理、感知与分析；工业视觉检测
 - non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting <br>
   智能电网的非侵入式智能感知与数据分析；能源预测
 
 Selected Publications
 ------
-(For the complete list of publications, please refer to [My Google Scholar Page](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN)) | * corresponding author
+(For the complete list of publications, please refer to [My Google Scholar](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN)) | \* corresponding author
+
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-  <strong><font color="red">Xingtuo Zhang*</font></strong>, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
+  <strong><font color="red">Xingtuo Zhang\* </font></strong>, Yiyi Zhang*, Kang Shen, Qi Fu, Huaze Shen <br>
   *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
 - Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network <br>
@@ -38,12 +39,12 @@ Selected Publications
   [[Paper]](https://ieeexplore.ieee.org/document/9975282)
 
 - Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation <br>
-  Yiyi Zhang, Xinyang Mao, <strong><font color="red">Xingtuo Zhang*</font></strong>, Chuqi Xu, Gang Wang, Sheng Li <br>
+  Yiyi Zhang, Xinyang Mao, <strong><font color="red">Xingtuo Zhang\*</font></strong>, Chuqi Xu, Gang Wang, et al. <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2022 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/9849515)
 
 - InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks  <br>
- <strong><font color="red">Xingtuo Zhang*</font></strong>, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, Xueyue Xue, Heng Zhang, Wei Zhang <br>
+ <strong><font color="red">Xingtuo Zhang</font></strong>, Yiyi Zhang*, Jiefeng Liu, Chaohai Zhang, et al. <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2021  <br>
     [[Paper]](https://ieeexplore.ieee.org/abstract/document/9585511)
 
