@@ -27,7 +27,7 @@ Research Interests（研究方向）
 
 Selected Publications
 ------
-( For the complete list of publications, please refer to [My Google Scholar Profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
+( For the complete list of publications, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
  [ $$\dagger$$ corresponding author ]
 
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
@@ -55,4 +55,4 @@ Selected Publications
 Academic Service
 ------
   - Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
-  - Journal Reviewer: IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
+  - Journal Reviewer : IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
