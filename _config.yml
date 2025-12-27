@@ -222,6 +222,7 @@ defaults:
       comments: true
   -->
   # _publications
+  <!--
   - scope:
       path: ""
       type: publications
@@ -230,6 +231,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+    -->
   # _portfolio
   - scope:
       path: ""
