@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Xingtuo Zhang, Ph.D."
+name                     : &name "Xingtuo Zhang"
 description              : &description "Xingtuo Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhangxingtuo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,14 +25,14 @@ repository               : "zhangxingtuo/zhangxingtuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xingtuo Zhang（张兴妥）"
+  name             : "Xingtuo Zhang, Ph.D."
   bio              : "School of Electrical Engineering, Chongqing University of Arts and Sciences"
   location         : "Chongqing, China"
   email            : "xingtuo.zh@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN"
-
+  orcid            : "https://orcid.org/0000-0001-5723-5511" # "http://orcid.org/yourorcidurl"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
