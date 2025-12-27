@@ -28,25 +28,25 @@ Research Interests（研究方向）
 Selected Publications
 ------
 ( For the complete list of publications, please refer to [My Google Scholar](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
- [ $\sharp$ corresponding author]
+ [ $$\sharp$$ corresponding author]
 
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-  <strong><font color="red">Xingtuo Zhang<sup>$\sharp$</sup></font></strong>, Yiyi Zhang<sup>$\sharp$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
+  <strong><font color="red">Xingtuo Zhang<sup>$$\sharp$$</sup></font></strong>, Yiyi Zhang<sup>$$\sharp$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
   *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
   
 - Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network <br>
-  **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang *, Alu Xu, Chunli Meng, Zhonghuan Su <br>
+  **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang<sup>$\sharp$</sup>, Alu Xu, Chunli Meng, Zhonghuan Su <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2023 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/9975282)
   
 - Research on time saving and accurate testing techniques for frequency domain spectroscopy of transformer oil–paper insulation <br>
-  Yiyi Zhang, Xinyang Mao, <strong><font color="red">Xingtuo Zhang</font></strong> *, Chuqi Xu, Gang Wang, et al. <br>
+  Yiyi Zhang, Xinyang Mao, <strong><font color="red">Xingtuo Zhang<sup>$\sharp$</sup></font></strong>, Chuqi Xu, Gang Wang, et al. <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2022 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/9849515)
 
 - InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks  <br>
- <strong><font color="red">Xingtuo Zhang</font></strong>, Yiyi Zhang *, Jiefeng Liu, Chaohai Zhang, et al. <br>
+ <strong><font color="red">Xingtuo Zhang</font></strong>, Yiyi Zhang<sup>$\sharp$</sup>, Jiefeng Liu, Chaohai Zhang, et al. <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2021  <br>
     [[Paper]](https://ieeexplore.ieee.org/abstract/document/9585511)
 
