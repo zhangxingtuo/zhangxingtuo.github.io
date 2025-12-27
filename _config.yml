@@ -31,10 +31,12 @@ author:
   email            : "xingtuo.zh@gmail.com" 
 
   # Academic websites
+  orcid            : "https://orcid.org/0000-0001-5723-5511"
   googlescholar    : "https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN"
 
 
 # Publication Category - The following the list of publication categories and their headings
+<!--
 publication_category:
   books:
     title: 'Books'
@@ -42,6 +44,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+-->
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -208,6 +211,7 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+  <!--
   - scope:
       path: ""
       type: teaching
@@ -216,6 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  -->
   # _publications
   - scope:
       path: ""
