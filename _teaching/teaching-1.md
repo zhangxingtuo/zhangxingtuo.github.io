@@ -1,8 +1,8 @@
 ---
-title: "High voltage technology"
+title: "High Voltage Technology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-spring-teaching-1
+permalink: /teaching/teaching-1
 date: 2026~
 ---
 
