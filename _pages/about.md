@@ -31,7 +31,7 @@ Selected Publications
  [ $$\dagger$$ corresponding author]
 
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-  <strong><font color="red">Xingtuo Zhang</font></strong><sup>$$\dagger$$</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
+  <strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
   *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
   
