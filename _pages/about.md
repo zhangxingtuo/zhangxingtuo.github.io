@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a faculty member at the School of Electrical Engineering, Chongqing University of Arts and Sciences.  
+I am currently a faculty member at the School of Electrical Engineering, Chongqing University of Arts and Sciences, Chongqing, China.  
 
 My long-term research focuses on multimodal image processing, perception and analysis, as well as their applications in industrial visual inspection.
 I have published more than 10 papers in academic journals such as the IEEE Transactions series.
