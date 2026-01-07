@@ -25,11 +25,11 @@ Research Interests（研究方向）
 - non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting <br>
   智能电网的非侵入式智能感知与数据分析；能源预测
 
-Recent Works
+Recent Works and Selected Publications
 ------
 ( For the complete list of publications, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
  [ $$\dagger$$ corresponding author ]
-- A novel method for diagnosing the hydrophobicity of composite insulators has been submitted to IEEE TDEI  
+- Our manuscript on a novel method for diagnosing the hydrophobicity of composite insulators has been submitted to IEEE TDEI.  
 <strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, et al.  
 *IEEE Transactions on Dielectrics and Electrical Insulation*, 2025  
 Under Review
@@ -60,3 +60,4 @@ Academic Service
 ------
   - Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
   - Journal Reviewer : IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
+
