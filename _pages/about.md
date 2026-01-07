@@ -25,10 +25,14 @@ Research Interests（研究方向）
 - non-intrusive intelligent sensing and data analysis for smart grids; energy forecasting <br>
   智能电网的非侵入式智能感知与数据分析；能源预测
 
-Selected Publications
+Recent Works
 ------
 ( For the complete list of publications, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
  [ $$\dagger$$ corresponding author ]
+- A novel method for diagnosing the hydrophobicity of composite insulators has been submitted to IEEE TDEI  
+<strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, et al.  
+*IEEE Transactions on Dielectrics and Electrical Insulation*, 2025  
+Under Review
 
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
   <strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
