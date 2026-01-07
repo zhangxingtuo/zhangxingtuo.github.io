@@ -61,3 +61,7 @@ Academic Service
   - Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
   - Journal Reviewer : IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
 
+Contact
+------
+E-mail: xingtuo_zhang@163.com, xingtuo.zh@gmail.com, xingtuo.zhang@cqwu.edu.cn
+
