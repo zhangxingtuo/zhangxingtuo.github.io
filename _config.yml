@@ -28,7 +28,7 @@ author:
   name             : "Xingtuo Zhang, Ph.D."
   bio              : "School of Electrical Engineering, Chongqing University of Arts and Sciences"
   location         : "Chongqing, China"
-  email            : "xingtuo.zh@gmail.com" 
+  #email            : "xingtuo.zh@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN"
