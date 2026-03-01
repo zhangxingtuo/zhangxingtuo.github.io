@@ -29,7 +29,7 @@ Recent Works and Selected Publications
 ------
 ( For the complete list of publications, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
  [ $$\dagger$$ corresponding author ]
-- Our recent work has been submitted to IEEE TDEI.  
+- Our new work has been submitted to IEEE TDEI.  
 <strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, et al.  
 *IEEE Transactions on Dielectrics and Electrical Insulation*, 2025  
 Under Review
