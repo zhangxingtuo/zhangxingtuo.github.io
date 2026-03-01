@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
 venue: "School of Electrical Engineering"
+date: 2026
 location: "Chongqing, China"
 ---
 
