@@ -63,5 +63,5 @@ Academic Service
 
 Contact
 ------
-E-mail: xingtuo.zhang@cqwu.edu.cn | xingtuo_zhang@163.com | xingtuo.zh@gmail.com
+E-mail: xingtuo_zhang@163.com | xingtuo.zhang@cqwu.edu.cn
 
