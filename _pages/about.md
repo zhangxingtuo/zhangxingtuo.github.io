@@ -11,7 +11,7 @@ I am currently a faculty member at the School of Electrical Engineering, Chongqi
 
 My long-term research focuses on multimodal image processing, perception and analysis, as well as their applications in industrial visual inspection.
 I have published more than 10 papers in academic journals such as the IEEE Transactions series.
-A single research paper published as the first author has received over 120 non-self citations, and our method has been adopted as an academic comparison benchmark by multiple research groups, garnering extensive positive citations and evaluations.
+A single research paper published as the first author has received over 120 non-self citations, and our method has been adopted as an academic comparison benchmark by multiple research groups, garnering extensive positive citations and evaluations. I have also long served as a reviewer for several internationally authoritative academic journals.
 
 我目前是重庆文理学院电气工程学院的教师。  
 
