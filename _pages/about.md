@@ -11,11 +11,11 @@ I am currently a faculty member at the School of Electrical Engineering, Chongqi
 
 My long-term research focuses on multimodal image processing, perception and analysis, as well as their applications in industrial visual inspection.
 I have published more than 10 papers in academic journals such as the IEEE Transactions series.
-A single research paper published as the first author has received over 120 non-self citations, and our method has been adopted as an academic comparison benchmark by multiple research groups, garnering extensive positive citations and evaluations. I have also long served as a reviewer for several internationally authoritative academic journals.
+A single research paper published as the first author has received over 120 non-self citations, and our method has been adopted as an academic comparison benchmark by multiple research groups, garnering extensive positive citations and evaluations. I also serve as a long-term corresponding reviewer for numerous academic journals, including IEEE Transactions on Instrumentation and Measurement and Engineering Applications of Artificial Intelligence.
 
 我目前是重庆文理学院电气工程学院的教师。  
 
-长期聚焦多模态图像处理、感知与分析及其在工业视觉检测中的应用研究，先后主持重庆市自然科学基金面上项目、重庆市教委科研项目青年项目等省部级科研项目2项，在IEEE Trans.系列汇刊等学术期刊发表论文10余篇，以第一作者发表的研究性论文单篇最高他引120余次，所提出的方法被多个课题组的研究列为学术对比基准，获得了广泛正面引用与评价。长期担任多个国际权威学术期刊的审稿人。
+长期聚焦多模态图像处理、感知与分析及其在工业视觉检测中的应用研究，先后主持重庆市自然科学基金面上项目、重庆市教委科研项目青年项目等省部级科研项目2项，在IEEE Trans.系列汇刊等学术期刊发表论文10余篇，以第一作者发表的研究性论文单篇最高他引120余次，所提出的方法被多个课题组的研究列为学术对比基准，获得了广泛正面引用与评价。长期担任IEEE Transactions on Instrumentation and Measurement、Engineering Applications of Artificial Intelligence等多个国际权威学术期刊的通讯审稿人。
 
 Research Interests（研究方向）
 ------
@@ -58,7 +58,7 @@ Under Review
 Academic Service
 ------
   - Member of the Technical Committee on Artificial Intelligence and Electrical Applications, China Electrotechnical Society
-  - Journal Reviewer : IEEE Transactions on Industrial Electronics、IEEE Sensors Journal、Engineering Applications of Artificial Intelligence、Reliability Engineering and System Safety、Signal, Image and Video Processing, etc.
+  - Journal Reviewer : IEEE Transactions on Instrumentation and Measurement, Engineering Applications of Artificial Intelligence, IEEE Transactions on Industrial Electronics, IEEE Sensors Journal, Reliability Engineering and System Safety, Signal, Image and Video Processing, etc.
 
 Contact
 ------
