@@ -34,12 +34,12 @@ Recent Works and Selected Publications
 Under Review
 
 - FAFNet: An overhead transmission line component detection method based on feature alignment and fusion <br>
-  <strong><font color="red">Xingtuo Zhang </font></strong><sup>$$\dagger$$</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
+  <strong><font color="red">Xingtuo Zhang </font></strong><sup>#, </sup><sup>$$\dagger$$</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Kang Shen, Qi Fu, Huaze Shen <br>
   *IEEE Sensors Journal*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/11049882)
   
 - Electrical insulator surface condition analysis based on joint fully convolutional and multiscale spatial pooling attention network <br>
-  **<font color=red>Xingtuo Zhang</font>**, Yiyi Zhang <sup>$$\dagger$$</sup>, Alu Xu, Chunli Meng, Zhonghuan Su <br>
+  **<font color=red>Xingtuo Zhang</font>**<sup>#</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Alu Xu, Chunli Meng, Zhonghuan Su <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2023 <br>
   [[Paper]](https://ieeexplore.ieee.org/document/9975282)
   
@@ -49,7 +49,7 @@ Under Review
   [[Paper]](https://ieeexplore.ieee.org/document/9849515)
 
 - InsuDet: A fault detection method for insulators of overhead transmission lines using convolutional neural networks  <br>
- <strong><font color="red">Xingtuo Zhang</font></strong>, Yiyi Zhang <sup>$$\dagger$$</sup>, Jiefeng Liu, Chaohai Zhang, et al. <br>
+ <strong><font color="red">Xingtuo Zhang</font></strong><sup>#</sup>, Yiyi Zhang <sup>$$\dagger$$</sup>, Jiefeng Liu, Chaohai Zhang, et al. <br>
   *IEEE Transactions on Instrumentation and Measurement*, 2021  <br>
     [[Paper]](https://ieeexplore.ieee.org/abstract/document/9585511)
 
