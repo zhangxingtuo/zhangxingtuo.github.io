@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font color=DarkBlue>Other Information</font>"
+title: "<Other Information"
 permalink: /others/
 author_profile: true
 ---
