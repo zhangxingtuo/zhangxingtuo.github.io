@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Publication Years: [2025](#jump2025), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021)
-\# co-first authors, * corresponding author  
+[# first author, $$\dagger$$ corresponding author]
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
