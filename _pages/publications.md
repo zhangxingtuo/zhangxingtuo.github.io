@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication Years: [2025](#jump2025), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021)
+Publication Years: [2025](#jump2025), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021) <br>
 [# first author, $$\dagger$$ corresponding author]
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-1. 
+1. Our new work has been submitted to IEEE TDEI.  
+<strong><font color="red">Xingtuo Zhang</font></strong> <sup>#, </sup><sup>$$\dagger$$</sup>, et al.  
+*IEEE Transactions on Dielectrics and Electrical Insulation*, 2025.10
+Under Review
 
 ## <font color=DarkBlue>Published Papers</font>
 
