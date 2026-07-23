@@ -9,8 +9,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-
 ## <font color=DarkBlue>主持/参与项目或课题</font>
 
 1. 重庆市科学技术局, 重庆市自然科学基金面上项目, CSTB2025NSCQ-GPX0338, 2025.07-2028.06, 省部级, <font color=Darkred>主持
