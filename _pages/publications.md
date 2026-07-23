@@ -12,7 +12,7 @@ Publication Years: [2025](#jump2025), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Our new work has been submitted to IEEE TDEI.  
 <strong><font color="red">Xingtuo Zhang</font></strong> <sup>#, </sup><sup>$$\dagger$$</sup>, et al.  
-*IEEE Transactions on Dielectrics and Electrical Insulation*, 2025.10
+*IEEE Transactions on Dielectrics and Electrical Insulation*, 2025.10 <br>
 Under Review
 
 ## <font color=DarkBlue>Published Papers</font>
