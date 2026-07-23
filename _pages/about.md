@@ -27,7 +27,7 @@ Research Interests（研究方向）
 Recent Works and Selected Publications
 ------
 ( For the complete list of publications, please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=zMSkoRwAAAAJ&hl=zh-CN) ) <br>
- [# first author, $$\dagger$$ corresponding author ]
+ [# first author, $$\dagger$$ corresponding author]
 - Our new work has been submitted to IEEE TDEI.  
 <strong><font color="red">Xingtuo Zhang</font></strong> <sup>#, </sup><sup>$$\dagger$$</sup>, et al.  
 *IEEE Transactions on Dielectrics and Electrical Insulation*, 2025  
