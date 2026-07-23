@@ -8,57 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-- [2026.7.20]李欣蔚老师牵头课程《智能医学图像处理》获重庆市"人工智能+"重点建设课程
-- [2026.07.02]祝贺团队硕士生屈幼熙论文"EEG-DBNet: A Dual-Branch Framework for Temporal-Spectral Representation Learning of Motor Imagery Electroencephalography"被《Brain Informatics》接收
-- [2026.06.12]李欣蔚老师作为参与单位负责人获批重庆市智慧医疗装备医工融合创新项目
-- [2026.06.XX]祝贺团队硕士生刘思园等获得Mathcup数学应用挑战赛 国赛二等奖
-- [2026.05.29]祝贺团队硕士生王健麟专利"一种用于大功率实验室的分布式电源控制系统"获得授权
-- [2026.05.XX]李欣蔚老师在the 5th International Conference on Biomedical and Intelligent Systems上做邀请报告：Brain Network-Based Subtyping and Computer-Aided Diagnosis of Neuropsychiatric Disorders
-- [2026.05.XX]李欣蔚老师在重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会2026年学术年会做邀请报告：骨髓/血细胞图像识别的模型研究与应用
-- [2026.05.22]李欣蔚老师作为青年科技工作者代表，被重庆科技报采访[《渝州追光破壁垒 医工融合启新程》](https://mp.weixin.qq.com/s/SYOECvlZLNbOM7nExG1j5A)
-- [2026.05.15]李欣蔚老师在重庆市医师协会放射医师分会2026年学术年会做邀请报告：从“看结构”到“看网络”：脑网络驱动的影像分析及临床意义
-- [2026.04.21]祝贺团队硕士生王健麟专利"一种基于多专家诊断意见和智能推理的肝移植用药指导系统"获得授权
-- [2026.04.21] 祝贺团队博士生李晓明执笔的"可切除肝细胞癌中瘤内三级淋巴结构的临床应用专家共识（2026版）"发布，李欣蔚老师作为编审委员会成员参与共识制定工作
-- [2026.03.28]李欣蔚老师被聘为重庆市神经科学学会理事
-- [2026.03.15]李欣蔚老师被聘为中国医药教育协会智能医学专业委员会委员
-- [2026.03.XX]祝贺团队硕士生朱彦屹获得2026年第四届全国大学生信息技术认证挑战赛全国三等奖
-- [2026.03.12]祝贺李欣蔚老师入选重庆市科协青年科技人才托举工程
-- [2026.01.06]祝贺团队硕士生刘思园、任相远等两个队分别获亚太地区大学生数学建模竞赛二等奖、三等奖
-- [2025.12.26]祝贺团队硕士生胡永波专利"一种基于多头注意力特征融合的肝图像分割方法"获得授权
-- [2025.12.25]祝贺团队硕士生朱彦屹、任相远等2个队获得2025年全国大学生创新创业能力大赛决赛 三等奖
-- [2025.11.17]祝贺团队本科生吕捷、硕士生王健麟获得2025 年全国大学生软件测试大赛国赛 三等奖
-- [2025.11.17]祝贺团队硕士生张惠城等人获得第二十二届中国研究生数学建模竞赛 三等奖
-- [2025.11.13]祝贺团队博士生娄熙承工作"EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces"获得 Brain Informatics 2025 Best Paper Award
-- [2025.11.12]祝贺团队硕士生许国美工作"[Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes](https://onlinelibrary.wiley.com/doi/10.1002/cns.70675)”被SCI二区期刊《CNS Neuroscience & Therapeutics》接收
-- [2025.11.12]李欣蔚老师单担任Brain Informatics 2025国际会议的Workshop/Special Session Chair，并主持了The International Workshop on Neural Data Analysis for Brain-Computer Interfaces and Brain Disorders
-- [2025.08.27]李欣蔚老师获得国家自然科学基金面上项目
-- [2025.08.05]祝贺团队硕士生王林金专利"一种基于几何神经网络的大脑皮层表面自动分割方法"获得授权
-- [2025.08.05]祝贺团队硕士生刘洪专利"一种脑沟异常的预测系统"获得授权
-- [2025.08.01]祝贺团队硕士生王林金专利"基于超高场7T磁共振图像合成的海马亚区半监督自动分割方法"获得授权
-- [2025.07.XX]李欣蔚老师获得重庆市重大项目课题
-- [2025.07.XX]祝贺团队硕士生王林金获得重庆市优秀毕业生
-- [2025.07.21]祝贺团队本科生冯雨恒等人获得第十届全国大学生生物医学工程创新设计竞赛 一等奖
-- [2025.06.24]祝贺团队硕士生王林金获得重庆邮电大学研究生优秀学位论文
-- [2025.06.21]李欣蔚老师被聘为重庆市生物医学工程学会理事
-- [2025.06.12]祝贺团队硕士生王林金工作"[MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation](https://link.springer.com/article/10.1007/s44443-025-00109-z)"被《Journal of King Saud University Computer and Information Sciences》接收。
-- [2025.06.07]李欣蔚老师被聘为重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会副主任委员，并做邀请报告"血液病诊断的智能跃迁--从经验依赖到数据驱动的范式转移"
-- [2025.06.01]李欣蔚老师被聘为医学图像计算青年研讨会（MICS）第五届委员会委员
-- [2025.05.27]祝贺团队硕士生李海铭专利"一种基于图注意力网络的脑网络结构和相似度的联合学习方法"获得授权
-- [2025.04.25]祝贺团队硕士生刘洪专利"一种基于超高场磁共振影像重建的海马亚区分割方法及系统"获得授权
-- [2025.04.19]李欣蔚老师担任2025 成像、探测与信息处理学术会议-生物医学成像与信息处理论坛委员，并做邀请报告"孤独症神经分型研究"
-- [2025.04.19]祝贺团队博士生娄熙承工作"[EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller](https://www.sciopen.com/article/10.26599/TST.2025.9010083)"被《Tsinghua Science and Technology》接收
-- [2024.12.26]李欣蔚老师与渝粤病理科学研究中心签订技术开发合作协议
-- [2024.12.07]李欣蔚老师担任2024 第五届全国光电子、光子材料与器件学术会议-生物、医学光学与光子学论坛委员，并做邀请报告"超高场磁共振成像在脑结构分割和病灶检测中的创新应用"
-- [2024.12.00]祝贺本科生郭晓强获2024年全国大学生软件测试大赛特等奖(冠军)，李欣蔚老师获卓越指导教师奖
-- [2024.11.22]李欣蔚老师与重庆市人民医院签订技术开发合作协议
-- [2024.11.05]李欣蔚老师接受国际著名媒体PsyPost采访，报道了团队关于[孤独症亚型的研究](https://www.psypost.org/machine-learning-algorithm-identifies-three-unique-autism-subtypes-in-males/)
-- [2024.11.00]祝贺团队硕士生王林金、许国美，本科生吕捷、罗婷茹获得国家奖学金
-- [2024.10.30]李欣蔚老师获批1X3联合基金
-- [2024.10.25]参与研发产品"骨髓图像分析系统"获医疗器械注册证
-- [2024.09.23]李欣蔚老师被聘为重庆昭信教育研究院专家
-- [2024.07.01]祝贺本科生代宇组、硕士生孔浩欢组获得第九届全国大学生生物医学工程创新设计竞赛三等奖
-- [2024.06.25]李欣蔚老师获批重庆市教育委员会科学技术研究计划重点项目
-- [2024.06.12]祝贺硕士生许国美工作"[Three autism subtypes based on single-subject gray matter network revealed by semi-supervised machine learning](https://onlinelibrary.wiley.com/doi/10.1002/aur.3183)”被《Autism Research》接收
-- [2024.06.02]祝贺本科生郭晓强获第十五届蓝桥杯全国软件和信息技术专业人才大赛国赛 一等奖
-- [2024.06.01]祝贺研究生王林金获得重庆市研究生科研创新项目
+- [2026.7.20]XXX
+
 
