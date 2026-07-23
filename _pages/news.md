@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Latest News"
+title: "<font color=DarkRed>Latest News</font>"
 permalink: /news/
 author_profile: true
 
