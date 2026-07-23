@@ -28,7 +28,8 @@ Under Review
   *IEEE Transactions on Instrumentation and Measurement*, 2025 <br>
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/11080344)
 3. Molecular dynamics study on functional group surface modified graphene oxide towards enhanced dielectric properties and thermal conductivity of natural ester insulating oil <br>
-  Danquan Lan, Yiyi Zhang, Pengfei Jia, Xianfu Lin, Chuanhui Xu, Heqi Song, Wenchang Wei, Zhicheng Su, <strong><font color="red">Xingtuo Zhang </font></strong> <br>
+  Danquan Lan, Yiyi Zhang, Pengfei Jia, Xianfu Lin, Chuanhui Xu, <br>
+  Heqi Song, Wenchang Wei, Zhicheng Su, <strong><font color="red">Xingtuo Zhang </font></strong> <br>
  *Renewable Energy*, 2025 <br>
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0960148125010754)
 4. Denoising of 3D magnetic resonance images via edge-enhanced low-rank tensor decomposition <br>
